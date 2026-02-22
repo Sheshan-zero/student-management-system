@@ -1,0 +1,22 @@
+# Dependencies
+/vendor/
+
+# Environment & Config (uncomment if you use .env)
+# .env
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Composer
+composer.lock
+
+# Logs
+*.log
